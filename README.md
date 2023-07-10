@@ -5,7 +5,7 @@
 <p align="center">
     crime / Executed
 <p align="center">  
-<img src="[https://camo.githubusercontent.com/dd8f516826554bb77402d26843f3bdb65087382f077f1bbe714a8ae680b933d0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d31377465656e26636f6c6f723d67726579)">
+<img src="[https://komarev.com/ghpvc/?username=dayrooms&color=purple)">
 </p>
     <p align="center">
   <img src="[https://discord.c99.nl/widget/theme-4/1116052806428786850.png](https://discord.c99.nl/widget/theme-4/1116052806428786850.png)"/>
